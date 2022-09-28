@@ -15,8 +15,7 @@ public class Constant {
 
     //image path
     public static final String birdBackGImage = "Img/bird_bk.png";
-
-    public static final Color backGColor = new Color(0x4B4CF);   //back ground color
+    public static final String backGroundImage = "Img/Back_ground.PNG";
 
     //poro image
     public static final String[] poroImg = {"Img/bird_normal.png", "Img/bird_up.png", "Img/bird_down.png"};

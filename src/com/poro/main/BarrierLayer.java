@@ -47,6 +47,7 @@ public class BarrierLayer {
         else {
             long differT = timer.timeDiff();
             g.setFont(new Font("Arial", 1, 20));
+            g.setColor(new Color(255, 102, 102, 255));
             g.drawString("Timer: " + differT + " s", 30, 50);           // how much time you insist in game
 
             highestT = getHTime();

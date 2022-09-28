@@ -91,12 +91,12 @@ public class GameFrame extends Frame {
         }
         else {
             String gameStatus = "Game over";
-            g.setColor(Color.RED);
+            g.setColor(new Color(255, 153, 51, 255));
             g.setFont(new Font("Arial", 1, 60));
             g.drawString(gameStatus, 200, 250);
 
             String reset = "Press space to restart game";
-            g.setColor(Color.BLACK);
+            g.setColor(new Color(255, 102, 102, 255));
             g.setFont(new Font("Arial", 1, 20));
             g.drawString(reset, 200, 300);
         }

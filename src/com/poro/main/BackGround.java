@@ -9,16 +9,17 @@ import java.io.BufferedReader;
 
 public class BackGround {
     private BufferedImage bkimg;     //game pictures
+    private BufferedImage backG;
 
     public BackGround(){
-        bkimg = GameUtil.loadBImage(Constant.birdBackGImage);    //image path
+        bkimg = GameUtil.loadBImage(Constant.birdBackGImage);
+        backG = GameUtil.loadBImage(Constant.backGroundImage);                    //image path
     }
 
 
     public void draw(Graphics g){                //draw pictures
         //fill background color
-        g.setColor(Constant.backGColor);
-        g.fillRect(0, 0, Constant.frameW, Constant.frameH);
+        g.drawImage(backG, 0, 0, null);
         g.setColor(Color.BLACK );
 
 
