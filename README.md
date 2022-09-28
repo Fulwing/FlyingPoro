@@ -3,7 +3,7 @@ Flying poro~
 
 How to play the game
 
-up bottom for flying up|
+up botton for flying up|
 let go the button for flying down
 
 after dead press space to restart the game
