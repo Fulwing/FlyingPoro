@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11903c4f-8a84-4e01-b2af-5c0a671318bb" name="Changes" comment="flying poro game" />
+    <list default="true" id="11903c4f-8a84-4e01-b2af-5c0a671318bb" name="Changes" comment="flying poro game">
+      <change beforePath="$PROJECT_DIR$/Img/bird_bk.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/poro_bk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/bird_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/poro_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/bird_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/poro_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/bird_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/poro_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/poro/util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/poro/util/Constant.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664330346573</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="flying poro game">
+      <created>1664330419082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664330419082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

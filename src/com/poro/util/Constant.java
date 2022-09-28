@@ -14,11 +14,11 @@ public class Constant {
 
 
     //image path
-    public static final String birdBackGImage = "Img/bird_bk.png";
+    public static final String birdBackGImage = "Img/poro_bk.png";
     public static final String backGroundImage = "Img/Back_ground.PNG";
 
     //poro image
-    public static final String[] poroImg = {"Img/bird_normal.png", "Img/bird_up.png", "Img/bird_down.png"};
+    public static final String[] poroImg = {"Img/poro_normal.png", "Img/poro_up.png", "Img/poro_down.png"};
 
     //barrier image
     public static final String[] barrImg = {"Img/barrier.png", "Img/barrier_up.png", "Img/Barrier_down.png"};
